@@ -1,5 +1,9 @@
 @import url(style/header.css);
 
+*{
+    background-color: pink;
+}
+
 :root{
     --var-background-color: #1d1d1d;
     --white: #FFFFFF;
